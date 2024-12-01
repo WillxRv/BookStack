@@ -162,6 +162,7 @@ return [
     'role_access_api' => 'Πρόσβαση στο API του συστήματος',
     'role_manage_settings' => 'Διαχειριστείτε τις ρυθμίσεις του ΑΡΙ',
     'role_export_content' => 'Εξαγωγή περιεχομένου',
+    'role_import_content' => 'Import content',
     'role_editor_change' => 'Αλλαγή προγράμματος επεξεργασίας σελίδας',
     'role_notifications' => 'Receive & manage notifications',
     'role_asset' => 'Δικαιώματα Συστήματος',
