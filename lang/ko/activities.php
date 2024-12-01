@@ -84,6 +84,14 @@ return [
     'webhook_delete' => '웹 훅 지우기',
     'webhook_delete_notification' => '웹 훅 삭제함',
 
+    // Imports
+    'import_create' => 'created import',
+    'import_create_notification' => 'Import successfully uploaded',
+    'import_run' => 'updated import',
+    'import_run_notification' => 'Content successfully imported',
+    'import_delete' => 'deleted import',
+    'import_delete_notification' => 'Import successfully deleted',
+
     // Users
     'user_create' => '사용자 생성',
     'user_create_notification' => '사용자 생성 성공',
