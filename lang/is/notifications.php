@@ -4,24 +4,24 @@
  */
 return [
 
-    'new_comment_subject' => 'New comment on page: :pageName',
-    'new_comment_intro' => 'A user has commented on a page in :appName:',
-    'new_page_subject' => 'New page: :pageName',
-    'new_page_intro' => 'A new page has been created in :appName:',
-    'updated_page_subject' => 'Updated page: :pageName',
-    'updated_page_intro' => 'A page has been updated in :appName:',
-    'updated_page_debounce' => 'To prevent a mass of notifications, for a while you won\'t be sent notifications for further edits to this page by the same editor.',
+    'new_comment_subject' => 'Ný athugasemd á síðu :pageName',
+    'new_comment_intro' => 'Notandi hefur sett inn athugasemd á síðu á :appName:',
+    'new_page_subject' => 'Ný síða á: :pageName',
+    'new_page_intro' => 'Ný síða hefur verið búin til á :appName:',
+    'updated_page_subject' => 'Uppfærð síða á: :pageName',
+    'updated_page_intro' => 'Síða hefur verið uppfærð á :appName:',
+    'updated_page_debounce' => 'Til að fyrirbyggja fjöldatilkynningar verður þér ekki sendar tilkynningar í smá stund um uppfærslu á þessari síðu frá sama höfundi.',
 
-    'detail_page_name' => 'Page Name:',
-    'detail_page_path' => 'Page Path:',
-    'detail_commenter' => 'Commenter:',
-    'detail_comment' => 'Comment:',
-    'detail_created_by' => 'Created By:',
-    'detail_updated_by' => 'Updated By:',
+    'detail_page_name' => 'Síðunafn:',
+    'detail_page_path' => 'Síðuslóð:',
+    'detail_commenter' => 'Notandi:',
+    'detail_comment' => 'Athugasemd:',
+    'detail_created_by' => 'Búið til af:',
+    'detail_updated_by' => 'Uppfært af:',
 
-    'action_view_comment' => 'View Comment',
-    'action_view_page' => 'View Page',
+    'action_view_comment' => 'Skoða athugasemd',
+    'action_view_page' => 'Skoða síðu',
 
-    'footer_reason' => 'This notification was sent to you because :link cover this type of activity for this item.',
-    'footer_reason_link' => 'your notification preferences',
+    'footer_reason' => 'Þessi tilkynning var send til þín vegna :link nær yfir þessa virkni á þessum hlut.',
+    'footer_reason_link' => 'stillingar á tilkynningum til þín',
 ];
