@@ -40,33 +40,33 @@ return [
     'login_user_not_found' => 'Enginn notandi fannst fyrir þessa aðgerð.',
 
     // System
-    'path_not_writable' => 'File path :filePath could not be uploaded to. Ensure it is writable to the server.',
+    'path_not_writable' => 'Ekki var hægt að hlaða upp á slóðinni :filePath. Vertu viss um að slóðin sé skrifanleg.',
     'cannot_get_image_from_url' => 'Get ekki sótt mynd frá :url',
-    'cannot_create_thumbs' => 'The server cannot create thumbnails. Please check you have the GD PHP extension installed.',
-    'server_upload_limit' => 'The server does not allow uploads of this size. Please try a smaller file size.',
-    'server_post_limit' => 'The server cannot receive the provided amount of data. Try again with less data or a smaller file.',
-    'uploaded'  => 'The server does not allow uploads of this size. Please try a smaller file size.',
+    'cannot_create_thumbs' => 'Netþjónninn getur ekki búið til smámyndir. Vertu viss um að þú hafir GD PHP viðbótina uppsetta.',
+    'server_upload_limit' => 'Þessi netþjónn leyfir ekki uphal af þessari stærð. Prófaðu minni skrá.',
+    'server_post_limit' => 'Netþjóninn getur ekki tekið á móti þessu magni gagna. Reyndu aftur með færri eða smærri gögnum.',
+    'uploaded'  => 'Þessi netþjónn leyfir ekki uphal af þessari stærð. Prófaðu minni skrá.',
 
     // Drawing & Images
     'image_upload_error' => 'Villa kom upp við að hlaða upp mynd',
     'image_upload_type_error' => 'Gerð myndar er ógild',
     'image_upload_replace_type' => 'Myndin sem á að nota við útskipti þarf að vera sömu gerðar',
-    'image_upload_memory_limit' => 'Failed to handle image upload and/or create thumbnails due to system resource limits.',
-    'image_thumbnail_memory_limit' => 'Failed to create image size variations due to system resource limits.',
-    'image_gallery_thumbnail_memory_limit' => 'Failed to create gallery thumbnails due to system resource limits.',
-    'drawing_data_not_found' => 'Drawing data could not be loaded. The drawing file might no longer exist or you may not have permission to access it.',
+    'image_upload_memory_limit' => 'Ekki var hægt að taka við upphali og eða búa til smámyndir þar sem ekki eru auðlindir til staðar.',
+    'image_thumbnail_memory_limit' => 'Ekki var hægt að búa til nokkrar stærðir myndarinnar vegna skorts á auðlindum.',
+    'image_gallery_thumbnail_memory_limit' => 'Ekki var hægt að búa til smámyndayfirlit vegna skorts á auðlindum.',
+    'drawing_data_not_found' => 'Ekki tóks að hlaða inn teikningagögnum. Það gæti vantað skránna eða að þú hafir ekki réttindi að henni.',
 
     // Attachments
     'attachment_not_found' => 'Viðhengi fannst ekki',
-    'attachment_upload_error' => 'An error occurred uploading the attachment file',
+    'attachment_upload_error' => 'Það kom upp villa við að hlaða upp viðhenginu',
 
     // Pages
-    'page_draft_autosave_fail' => 'Failed to save draft. Ensure you have internet connection before saving this page',
-    'page_draft_delete_fail' => 'Failed to delete page draft and fetch current page saved content',
-    'page_custom_home_deletion' => 'Cannot delete a page while it is set as a homepage',
+    'page_draft_autosave_fail' => 'Gat ekki vistað uppkast. Gættu að þú hafir tengingu við internetið áður en þú vistar þessa síðu',
+    'page_draft_delete_fail' => 'Ekki var hægt að eyða uppkasti og sækja fyrra innihald síðunar',
+    'page_custom_home_deletion' => 'Ekki er hægt að eyða síðu á meðan hún er valin sem sjálfgefin upphafssíða',
 
     // Entities
-    'entity_not_found' => 'Entity not found',
+    'entity_not_found' => 'Entity fannst ekki',
     'bookshelf_not_found' => 'Hilla fannst ekki',
     'book_not_found' => 'Bók fannst ekki',
     'page_not_found' => 'Síða fannst ekki',
