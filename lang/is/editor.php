@@ -74,7 +74,7 @@ return [
     'clear_formatting' => 'Hreinsa forsnið',
     'source_code' => 'Frumkóði',
     'source_code_title' => 'Frumkóði',
-    'fullscreen' => 'Fullscreen',
+    'fullscreen' => 'Fullann skjá',
     'image_options' => 'Myndastillingar',
 
     // Tables
@@ -97,7 +97,7 @@ return [
     'cell_properties_title' => 'Eigindi reitar',
     'cell_type' => 'Gerð reitar',
     'cell_type_cell' => 'Reitur',
-    'cell_scope' => 'Scope',
+    'cell_scope' => 'Svið',
     'cell_type_header' => 'For reitur',
     'merge_cells' => 'Sameina reiti',
     'split_cell' => 'Kljúfa reiti',
@@ -157,7 +157,7 @@ return [
     'edit_label' => 'Breyta miða',
     'toggle_open_closed' => 'Velja opið/lokað',
     'collapsible_edit' => 'Edit collapsible block',
-    'toggle_label' => 'Toggle label',
+    'toggle_label' => 'Sýna miða',
 
     // About view
     'about' => 'Um ritilinn',
@@ -165,13 +165,13 @@ return [
     'editor_license' => 'Leyfi og höfundaréttur ritilsins',
     'editor_tiny_license' => 'Þessi ritill er smíðaður með :tinyLink sem er undir MIT leyfi.',
     'editor_tiny_license_link' => 'Höfundarétt og leyfi TinyMCE má finna hér.',
-    'save_continue' => 'Save Page & Continue',
+    'save_continue' => 'Vista síðu og halda áfram',
     'callouts_cycle' => '(Keep pressing to toggle through types)',
-    'link_selector' => 'Link to content',
-    'shortcuts' => 'Shortcuts',
-    'shortcut' => 'Shortcut',
-    'shortcuts_intro' => 'The following shortcuts are available in the editor:',
+    'link_selector' => 'Hlekkur á innihald',
+    'shortcuts' => 'Flýtileiðir',
+    'shortcut' => 'Flýtileið',
+    'shortcuts_intro' => 'Eftirtaldar flýtileiðir eru aðgengilegar í ritlinum:',
     'windows_linux' => '(Windows/Linux)',
     'mac' => '(Mac)',
-    'description' => 'Description',
+    'description' => 'Lýsing',
 ];
