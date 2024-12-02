@@ -8,22 +8,22 @@
 return [
 
     // Standard laravel validation lines
-    'accepted'             => 'The :attribute must be accepted.',
-    'active_url'           => 'The :attribute is not a valid URL.',
-    'after'                => 'The :attribute must be a date after :date.',
-    'alpha'                => 'The :attribute may only contain letters.',
-    'alpha_dash'           => 'The :attribute may only contain letters, numbers, dashes and underscores.',
-    'alpha_num'            => 'The :attribute may only contain letters and numbers.',
+    'accepted'             => 'Það verður að samþykkja :attribute.',
+    'active_url'           => ':attribute Er ekki gilt vistfang.',
+    'after'                => ':attribute verður að vera dagsetning eftir :date.',
+    'alpha'                => ':attribute má eingöngu innihalda stafi.',
+    'alpha_dash'           => ':attribute má eingöngu innihalda stafi, tölustafi, strik og undirstrik.',
+    'alpha_num'            => ':attribute má eingöngu innihalda stafi og tölustafi.',
     'array'                => 'The :attribute must be an array.',
-    'backup_codes'         => 'The provided code is not valid or has already been used.',
-    'before'               => 'The :attribute must be a date before :date.',
+    'backup_codes'         => 'Kóðinn sem þú gafst upp er ekki gildur eða hefur þegar verið notaður.',
+    'before'               => ':attribute verður að vera dagsetning á undan :date.',
     'between'              => [
-        'numeric' => 'The :attribute must be between :min and :max.',
-        'file'    => 'The :attribute must be between :min and :max kilobytes.',
-        'string'  => 'The :attribute must be between :min and :max characters.',
-        'array'   => 'The :attribute must have between :min and :max items.',
+        'numeric' => ':attribute verður að vera á milli :min og :max.',
+        'file'    => ':attribute verður að vera á milli :min og :max kílóbæti.',
+        'string'  => ':attribute verður að vera á milli :min og :max stafir.',
+        'array'   => ':attribute verður að vera á milli :min og :max fjöldi.',
     ],
-    'boolean'              => 'The :attribute field must be true or false.',
+    'boolean'              => ':attribute gildið verður að vera true og false.',
     'confirmed'            => 'The :attribute confirmation does not match.',
     'date'                 => 'The :attribute is not a valid date.',
     'date_format'          => 'The :attribute does not match the format :format.',
@@ -113,7 +113,7 @@ return [
     // Custom validation lines
     'custom' => [
         'password-confirm' => [
-            'required_with' => 'Password confirmation required',
+            'required_with' => 'Staðfestingu á lykilorði er krafist',
         ],
     ],
 
