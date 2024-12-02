@@ -101,32 +101,32 @@ return [
     'user_delete_notification' => 'Tókst að eyða notanda',
 
     // API Tokens
-    'api_token_create' => 'created API token',
-    'api_token_create_notification' => 'API token successfully created',
-    'api_token_update' => 'updated API token',
-    'api_token_update_notification' => 'API token successfully updated',
-    'api_token_delete' => 'deleted API token',
-    'api_token_delete_notification' => 'API token successfully deleted',
+    'api_token_create' => 'API token búið til',
+    'api_token_create_notification' => 'Tókst að búa til API tóka',
+    'api_token_update' => 'API tóki uppfærður',
+    'api_token_update_notification' => 'Tókst að uppfæra API tóka',
+    'api_token_delete' => 'eyddur API tóki',
+    'api_token_delete_notification' => 'Tókst að eyða API tóka',
 
     // Roles
-    'role_create' => 'created role',
-    'role_create_notification' => 'Role successfully created',
-    'role_update' => 'updated role',
-    'role_update_notification' => 'Role successfully updated',
-    'role_delete' => 'deleted role',
-    'role_delete_notification' => 'Role successfully deleted',
+    'role_create' => 'stofnað hlutverk',
+    'role_create_notification' => 'Tókst að stofna hlutverk',
+    'role_update' => 'hlutverk uppfært',
+    'role_update_notification' => 'Tókst að uppfæra hlutverk',
+    'role_delete' => 'eytt hlutverk',
+    'role_delete_notification' => 'Tókst að eyða hlutverki',
 
     // Recycle Bin
-    'recycle_bin_empty' => 'emptied recycle bin',
-    'recycle_bin_restore' => 'restored from recycle bin',
-    'recycle_bin_destroy' => 'removed from recycle bin',
+    'recycle_bin_empty' => 'tæmd ruslatunna',
+    'recycle_bin_restore' => 'endurheimt úr ruslatunnu',
+    'recycle_bin_destroy' => 'fjarlægt úr ruslatunnu',
 
     // Comments
-    'commented_on'                => 'commented on',
-    'comment_create'              => 'added comment',
-    'comment_update'              => 'updated comment',
-    'comment_delete'              => 'deleted comment',
+    'commented_on'                => 'athugasemd á',
+    'comment_create'              => 'athugasemd bætt við',
+    'comment_update'              => 'athugasemd uppfærð',
+    'comment_delete'              => 'athugasemd eytt',
 
     // Other
-    'permissions_update'          => 'updated permissions',
+    'permissions_update'          => 'uppfærðar heimildir',
 ];
