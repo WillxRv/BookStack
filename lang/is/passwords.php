@@ -6,10 +6,10 @@
  */
 return [
 
-    'password' => 'Passwords must be at least eight characters and match the confirmation.',
-    'user' => "We can't find a user with that e-mail address.",
-    'token' => 'The password reset token is invalid for this email address.',
-    'sent' => 'We have e-mailed your password reset link!',
-    'reset' => 'Your password has been reset!',
+    'password' => 'Lykilorð verður að vera að lágmarki 8 stafir og stemma saman.',
+    'user' => "Enginn notandi finnst með þetta netfang.",
+    'token' => 'Tókinn er ógildur fyrir þetta netfang.',
+    'sent' => 'Þér hefur verið sendur hlekkur í tölvupósti!',
+    'reset' => 'Lykilorðinu hefur verið breytt!',
 
 ];
