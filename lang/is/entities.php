@@ -24,7 +24,7 @@ return [
     'meta_updated_name' => 'Uppfært :timeLength af :user',
     'meta_owned_name' => 'Eigandi :user',
     'meta_reference_count' => 'Vitnað í af :count item|Vitnað í af :count items',
-    'entity_select' => 'Entity Select',
+    'entity_select' => 'Entity Val',
     'entity_select_lack_permission' => 'Þú hefur ekki nauðsynlegar aðgangsheimildir til að velja þetta',
     'images' => 'Myndir',
     'my_recent_drafts' => 'Nýlegur drögin mín',
